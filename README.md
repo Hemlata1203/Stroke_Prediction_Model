@@ -32,13 +32,13 @@ Exploratory Data Analysis (EDA): Visualized correlations between age, BMI, lifes
 # 🤖 Machine Learning Models Used
 The following ML models were implemented and compared:
 
-Random Forest Classifier
+1) Random Forest Classifier
 
 Accuracy: ~94% (Tuned)
 
 Recall (Stroke Patients): Very low (~2%)
 
-Logistic Regression
+2) Logistic Regression
 
 Accuracy: ~76%
 
@@ -46,7 +46,7 @@ Best recall and F1-score among all models
 
 Final selected model due to better balance between recall and precision
 
-Support Vector Machine (SVM)
+3) Support Vector Machine (SVM)
 
 Accuracy: ~76%
 
@@ -100,6 +100,8 @@ Healthcare Providers: Assist in identifying at-risk patients for preventive care
 Insurance Companies: Risk profiling for health policies.
 
 Research & Analytics: Understanding correlations between lifestyle, health conditions, and stroke risk.
+
+
 
 ✨ This project demonstrates how machine learning can be used to address real-world healthcare challenges while also creating measurable business value.
 
